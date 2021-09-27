@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tp1_singleactivityapp.FirstFragment">
+    <item
+        android:id="@+id/remisezero"
+        android:title="Remise a Zero" />
+    <item
+        android:id="@+id/telephone"
+        android:title="Telephone" />
+    <item
+        android:id="@+id/rechercheville"
+        android:title="Recherche Ville" />
+</menu>
